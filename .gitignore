@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Runtime data (user credentials - never commit)
+data/passwd.txt
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
